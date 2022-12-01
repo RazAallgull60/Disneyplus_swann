@@ -1,0 +1,61 @@
+{
+    "recommandés": {
+      "titre": "Recommandés pour vous",
+      "films": [
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/332BF9A10349F311A0571375FAAEE5C5C076CD96C54189F983896B77F654271F/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A4B58B11C7019B5403E07D551249121C4F4CC99119907F4460F0725B34A27086/scale?width=400&aspectRatio=1.78&format=jpeg"
+        },
+        {
+          "card":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/52C108DF6292E38F697B97A15684BB24A4A7B02D70D1B6B72B7D65E75D24B7A0/scale?width=400&aspectRatio=1.78&format=jpeg"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/AE84C8C6FCFFF10BCD09F69FFD3F40008F8C0170E3D6D737154B101396D2B4DC/scale?width=400&aspectRatio=1.78&format=jpeg"
+        },
+        {
+          "card":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/226DB7C90442683C5F252E9578355540E75C0643925E5ACA9EF87B5AB7340977/scale?width=400&aspectRatio=1.78&format=jpeg"
+        }
+      ]
+    },
+    "nouveau": {
+      "titre": "Nouveau sur Disney+",
+      "films": [
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/662BFC9DD07AC44E50F09A35C57CD6EB8457FB82CBF1D38DE99F2D98AE26D11A/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/A2C72823119C8E26940FB7761CAC5101919000ECC087C5168F8721E6661B7953/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/20407903DBDF1A653FC5E39371806BA32D8BC62C6BF7240598CB733D67960FC7/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EE194F8DAF50EEF9FE79BE02F6563DFE0E3A8CEEC13DE7D2478EBB47A90B4A48/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/EA6DDBD554BA9391AA0BEC222F79EBE685461E1CA8173EEE7A622124D616A93D/badging?width=400&aspectRatio=1.78&format=jpeg&label=staroriginal"
+        }
+      ]
+    },
+    "originals": {
+      "titre": "Productions originales",
+      "films": [
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/7090EBD93D2263840D77B48F2778579F87F478791D94F12FCBD7F95A62A630CC/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/075DCB9CB981B71CA9698689176DE6392ED63C60E69B34331CC29CDD88D6E9BD/badging?width=400&aspectRatio=1.78&format=jpeg&label=staroriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2ED4D3C680F888BFAAF832DA92CB7EC2EBD211098E50206CF28A1223EB00FAF4/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },
+        {
+          "card": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/CE821A4B08A6003E6A12B8DEBA97AAADA1B49F4309CE612F0CE0D8B3F1A641B8/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        },{
+          "card":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/80F408C50054F1A42F1A743D7BE39AFDDC1CE77DB1E43E68C15F88E0B18FCA4E/badging?width=400&aspectRatio=1.78&format=jpeg&label=disneyplusoriginal"
+        }
+      ]
+    }
+  }
