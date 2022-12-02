@@ -11,13 +11,7 @@ const SliderImages = () => {
     slidesToScroll: 1,
   }
   return (
-    <SliderHeader {...settings}>
-      <Container>
-        <a>
-          <PosterSerie src="/images/eradogelo-slider.jpeg" alt="L'age de glace" />
-          <LogoSerie src="/images/logo-eradogelo.png" alt="L'age de glace"/>
-        </a>
-      </Container>
+    <SliderHeader {...settings}>  
       <Container>
         <a>
           <PosterSerie src="/images/mandalore-slider.jpeg" alt="mandalore" />
@@ -28,6 +22,16 @@ const SliderImages = () => {
         <a>
           <PosterSerie src="/images/encanto-slider.jpeg" alt="encanto" />
           <LogoSerie src="/images/logo-encanto.png" alt="logo encanto"/>
+        </a>
+      </Container>
+      <Container>
+        <a>
+          <PosterSerie src="/images/agedeglace-slider.jpeg" alt="L'age de glace" />
+        </a>
+      </Container>
+      <Container>
+        <a>
+          <PosterSerie src="/images/monstre&cie-slider.jpeg" alt="monstre&cie"/>
         </a>
       </Container>
     </SliderHeader>
