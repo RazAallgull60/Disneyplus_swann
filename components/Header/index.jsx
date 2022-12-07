@@ -53,7 +53,7 @@ const Header = () => {
         </ContainerIcons>
       </Wrapper>
       <ContainerUser>
-        <TextName>Ra's Al Ghul</TextName>
+        <TextName>Ra's Al Ghul Jptz</TextName>
         <Avatar src="/images/profile.jpg" alt="profile" width={48} height={48} />
       </ContainerUser>
     </Container>
